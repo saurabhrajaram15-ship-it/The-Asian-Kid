@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { HashRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom';
 import { Menu, X, CheckCircle, Mail, Phone, ExternalLink, Globe, Star, ArrowRight, MessageCircle } from 'lucide-react';
-import Home from './pages/Home';
+import Home from "./Home";
 import About from './pages/About';
 import CountriesPage from './pages/CountriesPage';
 import HowItWorks from './pages/HowItWorks';
